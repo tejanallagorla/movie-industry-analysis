@@ -1,7 +1,7 @@
 # movie-industry-analysis
 
 ## Data/Technologies Used
-**Data** - Movie data with over 7,500 records from Kaggle.<br>
+**Data** - Movie data (1980-2020) with over 7,500 records from Kaggle.<br>
 **Data Cleaning & Analysis** - Jupyter Notebook, Libraries: pandas, numpy, statsmodels, matplotlib, seaborn<be>
 
 ## Question
