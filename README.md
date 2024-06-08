@@ -5,7 +5,7 @@
 **Data Cleaning & Analysis** - Jupyter Notebook, Libraries: pandas, numpy, matplotlib, seaborn<be>
 
 ## Question
-### What factors have an effect on a movie's gross revenue, and how strong are those effects?
+What factors have an effect on a movie's gross revenue, and how strong are those effects?
 
 ## Predictions
 1) The budget for the movie's production and its gross revenue will be correlated.
