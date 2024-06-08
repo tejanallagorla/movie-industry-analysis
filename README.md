@@ -14,4 +14,4 @@
 
 
 ## Limitations
-Some records had missing values in one or more columns, so they were excluded during the analysis (2247 records). Only complete records were used (5421 records).
+* Some records had missing values in one or more columns, so they were excluded during the analysis (2247 records). Only complete records were used (5421 records).
